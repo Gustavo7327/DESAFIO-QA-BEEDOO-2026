@@ -19,7 +19,7 @@ A plataforma é um sistema de gerenciamento administrativo (CRUD) simplificado p
 * **Persistência de Dados:** Validação do método de salvamento (Local Storage vs Banco de Dados).
 * **Regras de Negócio de Data:** Impedir inconsistências temporais (Data fim < Data início).
 * **Roteamento:** Garantir que a URL da aplicação seja acessível via refresh ou acesso direto.
-* **Exclusão de registros:** Garantir os registros sejam apagados corretamente.
+* **Exclusão de registros:** Garantir que os registros sejam apagados corretamente.
 
 ---
 
